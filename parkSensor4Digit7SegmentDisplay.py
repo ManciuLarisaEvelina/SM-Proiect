@@ -1,6 +1,6 @@
 """
 *Before you run the code, do not forget to start the pigpiod daemon
-*   using "sudo pigpiod"
+*using "sudo pigpiod"
 """
 
 #import the libraries used
